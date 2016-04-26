@@ -849,7 +849,7 @@ namespace WeatherInfo
 
         #region 对应图片获取
         /// <summary>
-        /// 根据天气类型选择对应图片
+        /// 根据天气类型选择对应图片,当前不包含雪天气
         /// </summary>
         /// <param name="Type"></param>
         /// <returns></returns>
